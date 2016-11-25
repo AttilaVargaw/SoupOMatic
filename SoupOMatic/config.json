@@ -1,0 +1,47 @@
+{
+    "flavours": [{
+        "name": "Teszt krem",
+        "text": "code",
+        "slot": 1
+    }, {
+        "name": "Teszt krem2",
+        "text": "code",
+        "slot": 2
+    }, {
+        "name": "Teszt krem3",
+        "text": "code",
+        "slot": 3
+    }, {
+        "name": "Teszt krem4",
+        "text": "code",
+        "slot": 4
+    }, {
+        "name": "Teszt krem5",
+        "text": "code",
+        "slot": 5
+    }],
+    "soups": [{
+        "name": "Teszt leves 1",
+        "text": "1-es leírás",
+        "slot": 1
+    }, {
+        "name": "Teszt leves 2",
+        "text": "2-es leírás",
+        "slot": 2
+    }, {
+        "name": "Teszt leves 3",
+        "text": "3-es leírás",
+        "slot": 3
+    }, {
+        "name": "Teszt leves 4",
+        "text": "4-es leírás",
+        "slot": 4
+    }, {
+        "name": "Teszt leves 5",
+        "text": "5-es leírás",
+        "slot": 5
+    }],
+    "commandButtons": {
+        "teszt": "teszt"
+    }
+}
